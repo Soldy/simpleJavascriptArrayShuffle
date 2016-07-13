@@ -1,3 +1,11 @@
+/*!
+ * shuffle v0.0.1
+ * Released under the GPL 3.0 license
+ *
+ * Date: 2016-07-13
+ */
+
+
 Array.prototype.shuffle = function (){
     var temp,
     rand,
